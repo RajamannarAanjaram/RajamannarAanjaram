@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+- 👋 Hi, I’m @RajamannarAanjaram. 
+<!-- - ![Profile views](https://gpvc.arturio.dev/RajamannarAanjaram) -->
 
-You can use the [editor on GitHub](https://github.com/RajamannarAanjaram/RajamannarAanjaram/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<!---
+RajamannarAanjaram/RajamannarAanjaram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+<p align="center">
+  <img alig src="https://github-readme-streak-stats.herokuapp.com/?user=RajamannarAanjaram&theme=blue-green" />
+</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p align="center">
+  <img alig src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajamannarAanjaram&layout=compact" />
+</p>
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=RajamannarAanjaram&row=1" />
+</p>
 
-### Markdown
+<p align="center">
+  <img alig src="https://github-readme-stats.vercel.app/api?username=RajamannarAanjaram&column=6&show_icons=true&theme=radical" />
+</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<!-- ![Rajamannar's GitHub stats](https://github-readme-stats.vercel.app/api?username=RajamannarAanjaram&show_icons=true&theme=radical) -->
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RajamannarAanjaram&repo=github-readme-stats)](https://github.com/RajamannarAanjaram/github-readme-stats) -->
+<!-- [![Rajamannar's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RajamannarAanjaram&theme=blue-green)](https://github.com/RajamannarAanjaram/github-readme-stats) -->
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+<!-- [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=RajamannarAanjaram&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![RajamannarAanjaram's github streak](https://github-readme-streak-stats.herokuapp.com/?user=RajamannarAanjaram&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats) -->
+<br>
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+[![Sparkline](https://stars.medv.io/RajamannarAanjaram/EVA-6.svg)](https://stars.medv.io/RajamannarAanjaram/EVA-6)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RajamannarAanjaram/RajamannarAanjaram/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
