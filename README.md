@@ -30,5 +30,5 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 
-[![Sparkline](https://stars.medv.io/RajamannarAanjaram/EVA-6.svg)](https://stars.medv.io/RajamannarAanjaram/EVA-6)
+<!-- [![Sparkline](https://stars.medv.io/RajamannarAanjaram/EVA-6.svg)](https://stars.medv.io/RajamannarAanjaram/EVA-6) -->
 
